@@ -1,2 +1,0 @@
-var myFirstName = "Aaron";
-var myLastName = "Knopp";

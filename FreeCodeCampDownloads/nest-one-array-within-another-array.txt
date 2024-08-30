@@ -1,2 +1,0 @@
-// Only change code below this line
-const myArray = [["Length", 16], ["Weight", 32]];
